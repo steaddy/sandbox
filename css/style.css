@@ -1,0 +1,16 @@
+.item {
+    border: 1px solid darkgray;
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+
+.goods {
+   display: flex;
+}
+
+.item h3 {
+    text-transform: capitalize;
+}

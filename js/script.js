@@ -11,3 +11,5 @@ const itemHTML = function({name, price, imgURL='img/noImg.png'}) {
 };
 
 document.querySelector('.goods').innerHTML = listItems.map(itemHTML).join('');
+
+// A new comment is added
